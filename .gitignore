@@ -1,0 +1,7 @@
+*.pdf
+**/output
+.vscode/
+bin/
+build/
+*.txt
+*.zip
